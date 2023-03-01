@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# ASP5001: El tipo o el miembro están obsoletos
+dotnet_diagnostic.ASP5001.severity = suggestion
